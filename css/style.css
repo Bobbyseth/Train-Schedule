@@ -1,10 +1,13 @@
 body {
-background-color:
-
+background-color: red;
 }
 
-.jumbotron {
+.trainHeader {
+  margin: 0 auto;
+}
 
+.scheduleWindow {
+  margin: 0 auto;
 }
 
 .newTrainWindow {
